@@ -16,7 +16,6 @@ WebRTC using AngulareFire2 sample code.
 - Launch another instance of Google Chrome with the same URL and click on the "Connect" button.
 
 
-
 ## Configure SSL
 
 If you need to host the sample on your own server, you can use the NodeJS server available in the nodejs-server folder.
@@ -25,3 +24,8 @@ If you need to host the sample on your own server, you can use the NodeJS server
 - I have generated the certificate (under nodejs-server folder) so it is not a must for you to do so.
 - In case you are running the server locally and is using Chrome, you may want to configure Chrome to allow insecure localhost.
 `chrome://flags/#allow-insecure-localhost`
+
+
+## More
+
+Check out [myMobKit app](https://play.google.com/apps/publish/?dev_acc=07271699487043512705) to see it in action.
