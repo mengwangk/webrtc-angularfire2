@@ -15,7 +15,10 @@
       "tsconfig": "tsconfig.app.json",
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "app",
-      "styles": ["styles.css"],
+      "styles": [
+        "styles.css",
+        "../node_modules/bootstrap/dist/css/bootstrap.min.css"
+      ],
       "scripts": ["../node_modules/webrtc-adapter/out/adapter.js"],
       "environmentSource": "environments/environment.ts",
       "environments": {
