@@ -28,4 +28,4 @@ If you need to host the sample on your own server, you can use the NodeJS server
 
 ## More
 
-Check out [myMobKit app](https://play.google.com/apps/publish/?dev_acc=07271699487043512705) to see it in action.
+Check out [myMobKit app](https://play.google.com/store/apps/details?id=com.mymobkit&hl=en) to see it in action.
